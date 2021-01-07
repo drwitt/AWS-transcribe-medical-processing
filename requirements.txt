@@ -2,7 +2,7 @@ boto3==1.12.43
 botocore==1.15.43
 docutils==0.15.2
 jmespath==0.9.5
-lxml==4.5.0
+lxml==4.6.2
 python-dateutil==2.8.1
 python-docx==0.8.10
 s3transfer==0.3.3
